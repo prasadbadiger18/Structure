@@ -9,3 +9,5 @@ int main()
    ptr->a=10;
    printf("name: %d\n", ptr->a);
 }
+
+
